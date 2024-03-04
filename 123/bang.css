@@ -17,6 +17,11 @@ nav ul {
 	display: flex;
 }
 
+.tekscik {
+    color:#fff;
+    text-decoration: none;
+}
+
 nav ul li {
 	margin-right: 1rem;
 }
