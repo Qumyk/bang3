@@ -1,0 +1,54 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #465ea0;
+	color: #fff;
+	padding: 1rem;
+}
+
+nav ul {
+	background-color: #293450;
+	list-style-type: none;
+	padding: 0;
+	display: flex;
+}
+
+nav ul li {
+	margin-right: 1rem;
+}
+
+nav ul li a {
+	color: #fff;
+	text-decoration: none;
+}
+
+section {
+	padding: 2rem;
+	border-bottom: 1px solid #ddd;
+}
+
+section h2 {
+	margin-top: 0;
+}
+
+.guzikov {
+	background-color: #465ea0;
+	color: #ffffff;
+	border: none;
+	padding: 0.5rem 1rem;
+	text-decoration: none;
+	display: inline-block;
+	margin-top: 1rem;
+}
+
+footer {
+	background-color: #465ea0;
+	color: #fff;
+	padding: 1rem;
+	text-align: center;
+	margin-top: 1rem;
+}
